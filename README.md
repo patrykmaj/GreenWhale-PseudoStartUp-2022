@@ -1,5 +1,5 @@
 # 🐳 GreenWhale 2022
-My second team project in tech industry. I was mainly responsible for all graphic and video work as well as for web page design and functionality.
+My second team project in tech industry. I was responsible for all graphic and video related work as well as web page designing and implementing new JavaScript functionalities.
 
 ✅ We have raised over 3,407 PLN for the project and reached approximately 3,897 beneficiaries.
 
